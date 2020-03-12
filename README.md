@@ -3,7 +3,7 @@
 ## Case: Survey dashboard
 
 For this BI assessment, we want you to create a dashboard, using the datafile provided. 
-- Load the data in a store system.
+- Load the data in a storeage system.
 - Create a dashboard where the averages are reported and you can drill through the hierarchy and answer distribution.
 
 The goal of the assignment is to get an idea of your experience, creativity, and ability to learn, analyze and reason.<BR>
